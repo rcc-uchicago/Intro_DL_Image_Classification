@@ -1,5 +1,5 @@
 # Intro_DL_Image_Classification
-starts at 2 pm Nov. 27, Wednesday 
+starts at 2 pm Nov. 26, Tuesday 
 
 Deep learning is a subset of machine learning algorithms that is good at recognizing patterns. Recent advances in deep learning made tasks such as image and speech recognition possible. This workshop will demonstrate how to develop neural network models from scratch for image classification.
 
